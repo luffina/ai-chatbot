@@ -1,0 +1,400 @@
+
+[
+  {
+    "question": "How do I enrol in my courses at RMIT?",
+    "answer": "You can <a href=\"https://www.rmit.edu.au/students/my-course/enrolment\" target=\"_blank\">enrol</a> by logging into myRMIT, navigating to \u2018My Student Record\u2019, and following the guided steps under the Enrolment section."
+  },
+  {
+    "question": "What is the RMIT census date?",
+    "answer": "The <a href=\"https://www.rmit.edu.au/students/my-course/important-dates/academic-calendar\" target=\"_blank\">census date</a> is the deadline to withdraw from a course without financial or academic penalty. You can find it on the <a href=\"https://www.rmit.edu.au/students/my-course/important-dates/academic-calendar\" target=\"_blank\">Academic Calendar</a>."
+  },
+  {
+    "question": "How do I reset my RMIT password?",
+    "answer": "Go to the RMIT password reset portal and follow the steps to reset using your registered email."
+  },
+  {
+    "question": "Where can I find my timetable?",
+    "answer": "Use the RMIT myTimetable system available via the myRMIT portal."
+  },
+  {
+    "question": "How do I contact Student Connect?",
+    "answer": "Visit the <a href=\"https://www.rmit.edu.au/students/support-services/student-connect\" target=\"_blank\">Student Connect</a> portal, or contact them via phone at +61 3 9925 5000 or submit an online enquiry."
+  },
+  {
+    "question": "What should I do if I have a timetable clash?",
+    "answer": "Reach out to your course coordinator or use the clash resolution form on the RMIT portal."
+  },
+  {
+    "question": "How do I apply for a leave of absence?",
+    "answer": "You can apply through myRMIT under \u2018My Enrolment\u2019, then select \u2018Leave of Absence\u2019 and follow the instructions."
+  },
+  {
+    "question": "What are the key academic dates at RMIT?",
+    "answer": "You can find semester start, census, and result release dates on RMIT\u2019s Important Dates page."
+  },
+  {
+    "question": "Where can I find course information?",
+    "answer": "Use RMIT\u2019s <a href=\"https://www.rmit.edu.au/study-with-us/applying-to-rmit/course-search\" target=\"_blank\">Course Search</a> on the website or access <a href=\"https://rmit.instructure.com/\" target=\"_blank\">Canvas</a> for <a href=\"https://www.rmit.edu.au/students/my-course/enrolment\" target=\"_blank\">enrol</a>led subjects."
+  },
+  {
+    "question": "How do I submit assignments?",
+    "answer": "Most assignments are submitted through <a href=\"https://rmit.instructure.com/\" target=\"_blank\">Canvas</a>. Follow your course instructions."
+  },
+  {
+    "question": "How do I check my academic progress?",
+    "answer": "Log in to myRMIT and access \u2018Academic History\u2019 or use the Progress Tracker tool."
+  },
+  {
+    "question": "How do I access RMIT Library services?",
+    "answer": "Visit library.rmit.edu.au to access digital resources, reserve books, and get research help."
+  },
+  {
+    "question": "How do I request special consideration?",
+    "answer": "Apply via the <a href=\"https://www.rmit.edu.au/students/student-essentials/assessment-and-exams/special-consideration\" target=\"_blank\">Special Consideration</a> application in myRMIT with supporting documentation."
+  },
+  {
+    "question": "Can I change my program?",
+    "answer": "Yes. Submit a Program Transfer application through the RMIT website before the deadline."
+  },
+  {
+    "question": "How do I get a student ID card?",
+    "answer": "After <a href=\"https://www.rmit.edu.au/students/my-course/enrolment\" target=\"_blank\">enrol</a>ment, visit your campus ID card office with valid identification to collect your student ID."
+  },
+  {
+    "question": "What is Canvas used for?",
+    "answer": "<a href=\"https://rmit.instructure.com/\" target=\"_blank\">Canvas</a> is the Learning Management System where you access materials, submit assessments, and check grades."
+  },
+  {
+    "question": "Where can I find academic policies?",
+    "answer": "Visit the RMIT <a href=\"https://www.rmit.edu.au/about/governance-and-management/policies\" target=\"_blank\">Policy Register</a> for details on academic integrity, assessment, and conduct."
+  },
+  {
+    "question": "What is WIL at RMIT?",
+    "answer": "WIL stands for Work Integrated Learning. It includes internships, placements, or industry-linked projects in your course."
+  },
+  {
+    "question": "What if I fail a course?",
+    "answer": "You can retake the course in a future semester or speak to your academic advisor for support options."
+  },
+  {
+    "question": "How do I check fees and payments?",
+    "answer": "Log into myRMIT and navigate to the \u2018Student Fees\u2019 section to view your statement and payment options."
+  },
+  {
+    "question": "How do I defer my offer?",
+    "answer": "Use the offer deferral form provided in your offer letter or via the Admissions portal."
+  },
+  {
+    "question": "Can I enrol in electives outside my program?",
+    "answer": "Yes, you can choose electives from the University Electives list if they are approved for your course."
+  },
+  {
+    "question": "What is the difference between a lecture and a tutorial?",
+    "answer": "Lectures are for large groups with theory content, while tutorials are small interactive classes for discussion and activities."
+  },
+  {
+    "question": "How do I access support for mental health?",
+    "answer": "Visit RMIT Counselling Services or book an appointment through the Wellbeing Hub."
+  },
+  {
+    "question": "How do I find out about RMIT events?",
+    "answer": "Check the RMIT Events Calendar or student newsletter for upcoming events and workshops."
+  },
+  {
+    "question": "Can I study part-time?",
+    "answer": "Yes, part-time study is available for many programs. You can change your load in myRMIT under Enrolment."
+  },
+  {
+    "question": "How do I request an academic transcript?",
+    "answer": "Order your transcript via myRMIT under \u2018Academic History\u2019 or through the <a href=\"https://www.rmit.edu.au/students/support-services/student-connect\" target=\"_blank\">Student Connect</a> portal."
+  },
+  {
+    "question": "Where do I find my student email?",
+    "answer": "Your student email can be accessed via Microsoft Outlook or the myRMIT dashboard."
+  },
+  {
+    "question": "What should I do if I lose my student card?",
+    "answer": "Report it to <a href=\"https://www.rmit.edu.au/students/support-services/student-connect\" target=\"_blank\">Student Connect</a> and request a replacement from your campus ID office."
+  },
+  {
+    "question": "How do I access free software?",
+    "answer": "RMIT provides access to Microsoft Office, Adobe, and others via the Software Portal in myTechSupport."
+  },
+  {
+    "question": "Where can I get help with writing assignments?",
+    "answer": "Visit the Study Support service or book a one-on-one session with a writing mentor."
+  },
+  {
+    "question": "What is academic integrity?",
+    "answer": "It refers to honest and responsible scholarship. Avoid plagiarism and follow correct referencing guidelines."
+  },
+  {
+    "question": "How do I book a study room?",
+    "answer": "Use the Library Booking System online to reserve collaborative or quiet rooms."
+  },
+  {
+    "question": "Can I take cross-institutional studies?",
+    "answer": "Yes, apply for cross-institutional <a href=\"https://www.rmit.edu.au/students/my-course/enrolment\" target=\"_blank\">enrol</a>ment through <a href=\"https://www.rmit.edu.au/students/support-services/student-connect\" target=\"_blank\">Student Connect</a> with approval from your program manager."
+  },
+  {
+    "question": "How do I appeal a grade?",
+    "answer": "Submit a Grade Appeal through myRMIT with valid justification and supporting evidence."
+  },
+  {
+    "question": "What clubs can I join at RMIT?",
+    "answer": "Explore the RMIT Student Life portal for clubs, societies, and sports teams available on your campus."
+  },
+  {
+    "question": "How do I access my course results?",
+    "answer": "Final results are published in myRMIT under Academic History after the end of semester."
+  },
+  {
+    "question": "Can I change my major or minor?",
+    "answer": "Contact your program coordinator to discuss changes to your study plan and available options."
+  },
+  {
+    "question": "What is SSAF?",
+    "answer": "The Student Services and Amenities Fee helps fund non-academic services like clubs, counselling, and careers."
+  },
+  {
+    "question": "How do I update my address or contact details?",
+    "answer": "Log into myRMIT and edit your personal information under \u2018My Details\u2019."
+  },
+  {
+    "question": "Where can I print on campus?",
+    "answer": "Printing stations are available in all libraries and labs. Load credit via the Print Portal online."
+  },
+  {
+    "question": "How do I connect to RMIT WiFi?",
+    "answer": "Select the RMIT-University <a href=\"https://www.rmit.edu.au/students/support-services/it-services/internet-and-wifi\" target=\"_blank\">WiFi</a> and log in with your student ID and password."
+  },
+  {
+    "question": "What are program electives?",
+    "answer": "Electives are optional subjects you can choose within your program to tailor your learning."
+  },
+  {
+    "question": "How do I find my course coordinator?",
+    "answer": "Coordinator names are listed on <a href=\"https://rmit.instructure.com/\" target=\"_blank\">Canvas</a> or the RMIT Course Guide website."
+  },
+  {
+    "question": "Can international students work in Australia?",
+    "answer": "Yes, but there are limits. Check your student visa conditions on the Department of Home Affairs website."
+  },
+  {
+    "question": "Where do I access past exam papers?",
+    "answer": "Visit the Library or <a href=\"https://rmit.instructure.com/\" target=\"_blank\">Canvas</a>. Some courses provide past papers for study preparation."
+  },
+  {
+    "question": "How do I withdraw from a course?",
+    "answer": "Use the myRMIT portal to manage <a href=\"https://www.rmit.edu.au/students/my-course/enrolment\" target=\"_blank\">enrol</a>ment. Be aware of deadlines for penalty-free withdrawal."
+  },
+  {
+    "question": "What is HECS-HELP?",
+    "answer": "It\u2019s a government loan that helps eligible students pay their tuition fees."
+  },
+  {
+    "question": "Can I speak to a career advisor?",
+    "answer": "Yes, book a session through <a href=\"https://www.rmit.edu.au/students/student-life/careers-employability\" target=\"_blank\">RMIT Careers and Employability</a> for resume help or job prep."
+  },
+  {
+    "question": "How do I report discrimination or harassment?",
+    "answer": "Use the <a href=\"https://www.rmit.edu.au/students/support-services/safety-security/safer-community\" target=\"_blank\">Safer Community</a> reporting tool or speak to a campus support officer."
+  },
+ 
+  {
+    "question": "How do I check if my course has prerequisites?",
+    "answer": "Check the course description in the RMIT Course Search. It will list any prerequisite subjects."
+  },
+  {
+    "question": "Can I study online if I am an international student?",
+    "answer": "Some courses offer flexible delivery, but international students must meet visa requirements for in-person attendance."
+  },
+  {
+    "question": "Where can I view my grades?",
+    "answer": "Log in to myRMIT and go to 'Academic History' to view your grades."
+  },
+  {
+    "question": "What is a program plan?",
+    "answer": "A program plan outlines the courses and structure of your degree. You can access it via myRMIT or the RMIT website."
+  },
+  {
+    "question": "How can I get a student concession card?",
+    "answer": "Apply for a transport concession via the PTV website after verifying your student status with RMIT."
+  },
+  {
+    "question": "What do I do if I miss an exam?",
+    "answer": "Apply for special consideration as soon as possible through myRMIT with evidence."
+  },
+  {
+    "question": "How do I contact my lecturer?",
+    "answer": "Their contact details are listed on Canvas or in your course guide."
+  },
+  {
+    "question": "How do I know when enrolment opens?",
+    "answer": "Check the Academic Calendar or the 'Enrolment' section in myRMIT for opening dates."
+  },
+  {
+    "question": "Can I take summer or winter intensive courses?",
+    "answer": "Yes, RMIT offers intensive courses. Check availability in myRMIT or ask your program manager."
+  },
+  {
+    "question": "What if I accidentally enrolled in the wrong course?",
+    "answer": "You can withdraw and re-enrol in the correct course before the census date via myRMIT."
+  },
+  {
+    "question": "How do I get help with budgeting as a student?",
+    "answer": "Visit RMIT's Financial Wellbeing support service for advice on budgeting, managing costs, and emergency assistance."
+  },
+  {
+    "question": "What is the academic integrity policy at RMIT?",
+    "answer": "It outlines expectations for honest academic conduct. You can read it in the Policy Register."
+  },
+  {
+    "question": "How can I get feedback on my assignments?",
+    "answer": "Your instructor will provide feedback via Canvas or Turnitin after grading."
+  },
+  {
+    "question": "Can I get a laptop or WiFi support from RMIT?",
+    "answer": "Yes, RMIT offers device loans and WiFi assistance through the Library and Student Connect."
+  },
+  {
+    "question": "How do I register for graduation?",
+    "answer": "Graduation registration is available via myRMIT close to course completion. Watch your RMIT email for details."
+  },
+  {
+    "question": "Where can I find past class recordings?",
+    "answer": "Past recordings are often available in Canvas under 'Media Gallery' or each week\u2019s module."
+  },
+  {
+    "question": "Can I request a course substitution?",
+    "answer": "Yes, but you must get approval from your program coordinator or manager."
+  },
+  {
+    "question": "How do I report bullying or harassment?",
+    "answer": "Report incidents through Safer Community or speak confidentially with Student Support staff."
+  },
+  {
+    "question": "How do I find my student number?",
+    "answer": "Your student number is on your student card and all official RMIT communications."
+  },
+  {
+    "question": "What types of scholarships are available?",
+    "answer": "RMIT offers merit and equity scholarships. Check the Scholarships page on the RMIT website."
+  },
+  {
+    "question": "Can I get academic support for maths or writing?",
+    "answer": "Yes, visit Study Support or book a learning advisor through the RMIT Learning Lab."
+  },
+  {
+    "question": "Where can I download course outlines?",
+    "answer": "Course outlines are available in Canvas or through the Course Search on RMIT's website."
+  },
+  {
+    "question": "What is a major and a minor?",
+    "answer": "Majors are your primary area of study. Minors are optional secondary focuses, shown in your program plan."
+  },
+  {
+    "question": "What is the Student Union?",
+    "answer": "RUSU represents student interests and provides advocacy, clubs, and social activities."
+  },
+  {
+    "question": "Where can I get printing credits?",
+    "answer": "Top up printing credits online through the RMIT Print Portal or at campus kiosks."
+  },
+  {
+    "question": "What support does RMIT provide for neurodiverse students?",
+    "answer": "Equitable Learning Services offers support plans and accommodations for neurodiverse students."
+  },
+  {
+    "question": "How do I request learning accommodations?",
+    "answer": "Register with Equitable Learning Services and provide documentation to create a support plan."
+  },
+  {
+    "question": "How do I update my emergency contact?",
+    "answer": "Log in to myRMIT, go to 'My Details', and update your emergency contact information."
+  },
+  {
+    "question": "What is an elective course?",
+    "answer": "An elective is a subject outside your core program that you choose to broaden your skills."
+  },
+  {
+    "question": "Can I use AI tools like ChatGPT for assignments?",
+    "answer": "Only if permitted by the course. Always follow academic integrity guidelines."
+  },
+  {
+    "question": "How do I sign up for workshops or webinars?",
+    "answer": "Go to the RMIT Events or Study Support page and register online for free sessions."
+  },
+  {
+    "question": "Where is the lost and found on campus?",
+    "answer": "Report or recover lost items at the campus security or reception desk."
+  },
+  {
+    "question": "Can I pause my studies for personal reasons?",
+    "answer": "Yes, apply for a Leave of Absence through myRMIT with a valid reason."
+  },
+  {
+    "question": "What happens if I overload my study plan?",
+    "answer": "You need program coordinator approval to take more than the standard credit points."
+  },
+  {
+    "question": "How do I change my preferred name?",
+    "answer": "Update your preferred name in myRMIT under 'Personal Details'."
+  },
+  {
+    "question": "Can I access mental health services online?",
+    "answer": "Yes, RMIT offers virtual counselling appointments. Book through the Wellbeing Hub."
+  },
+  {
+    "question": "Do I need to attend orientation?",
+    "answer": "Yes, orientation helps you understand your program, meet staff, and explore campus resources."
+  },
+  {
+    "question": "What is the deadline to pay fees?",
+    "answer": "Fee deadlines are published in myRMIT. Late payment may result in penalties or enrolment blocks."
+  },
+  {
+    "question": "How do I activate my student email?",
+    "answer": "Go to the Microsoft Office 365 portal and sign in with your RMIT student credentials."
+  },
+  {
+    "question": "Can I work while studying at RMIT?",
+    "answer": "Yes, but international students must follow visa work conditions. Local students have no restrictions."
+  },
+  {
+    "question": "Where can I find course prerequisites?",
+    "answer": "Check the course description on the RMIT Course Guide or Study with Us page."
+  },
+  {
+    "question": "What is Turnitin?",
+    "answer": "Turnitin is a plagiarism detection tool used for assignment submissions on Canvas."
+  },
+  {
+    "question": "How do I access free mental wellness resources?",
+    "answer": "Visit the RMIT Wellbeing Hub for resources, events, and counselling links."
+  },
+  {
+    "question": "How do I book a mentor or tutor?",
+    "answer": "Use the Study Support booking page to reserve a peer mentor or tutor session."
+  },
+  {
+    "question": "What is a credit point?",
+    "answer": "Each subject has a credit point value. Most courses are worth 12 credit points at RMIT."
+  },
+  {
+    "question": "Where can I get advice on career planning?",
+    "answer": "Use the Careers and Employability service to get help with career advice and job readiness."
+  },
+  {
+    "question": "Can I participate in student governance?",
+    "answer": "Yes, join the RUSU Student Council or your program advisory committee to represent peers."
+  },
+  {
+    "question": "Where do I submit feedback about a course?",
+    "answer": "Use the Student Feedback Survey in Canvas or the RMIT Feedback portal."
+  },
+  {
+    "question": "What is a credit transfer?",
+    "answer": "It allows you to count previous studies towards your current program. Apply through myRMIT with transcripts."
+  } 
+]
